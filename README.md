@@ -1,4 +1,4 @@
-# Raqeeb Popoola  
+# ANALYST RAQEEB POPOOLA  
 ### Data Analyst | Aspiring Biostatistician | Survival & Causal Modeling | Multimodal Neurodata| R & Python
 
 ---
@@ -7,7 +7,7 @@
 
 I am a data analyst with a strong research focus in **biostatistics, survival analysis, causal inference, and multimodal biomedical data science**.  
 
-My work integrates statistical rigor with machine learning to solve complex problems in clinical research, neuroimaging, and population health.
+My work integrates statistical rigour with machine learning to solve complex problems in clinical research, neuroimaging, and population health.
 
 I am particularly interested in:
 
@@ -115,7 +115,9 @@ I aim to contribute to research at the intersection of statistics, medicine, and
 
 ## 📈 Selected Tools & Platforms
 
-- RStudio  
+- RStudio
+- Anaconda
+- Python  
 - Jupyter Notebook  
 - GitHub  
 - Power BI  
@@ -125,8 +127,8 @@ I aim to contribute to research at the intersection of statistics, medicine, and
 
 ## 📫 Contact
 
-- LinkedIn: (insert link)  
-- Email: (insert professional email)  
+- LinkedIn: (www.linkedin.com/in/raqeeb-popoola-894060395)  
+- Email: (rapo4real@gmail.com)  
 - Location: Nigeria  
 
 ---
